@@ -7,6 +7,6 @@ Standards-Version: 3.9.5
 
 Package: canaima-multimedia
 Architecture: all
-Depends: audacity, pulseaudio, vlc, xfburn, xsane, alsamixergui, alsa-base, alsa-utils, clementine
+Depends: audacity, pulseaudio, vlc, xfburn, xsane, alsamixergui, alsa-base, alsa-utils, clementine, pitivi
 Description: Canaima Multimedia
  Paquetes multimedia para Canaima
