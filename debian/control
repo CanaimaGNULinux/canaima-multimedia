@@ -1,0 +1,12 @@
+Source: canaima-multimedia
+Section: metapackages
+Priority: standard
+Maintainer: Jesus Palencia <sinfallas@gmail.com> | Jeidi Brito <jeidi.brito@gmail.com>
+Build-Depends: debhelper, cdbs
+Standards-Version: 3.9.5
+
+Package: canaima-multimedia
+Architecture: all
+Depends: audacity, pulseaudio, vlc, xfburn, xsane, alsamixergui, alsa-base, alsa-utils, clementine
+Description: Canaima Multimedia
+ Paquetes multimedia para Canaima
