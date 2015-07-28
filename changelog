@@ -1,10 +1,22 @@
-commit 66fc22542b5e267d2817f88222e4ff33131d96f0 (HEAD, master)
+commit 34bcd5b6ba6181cab57569069ad036e761a58223 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Jul 28 19:17:37 2015 -0430
+
+    * versiones
+
+commit bd5a3e2a8fb1f6ee0a29ef56017529f11247f5ce
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Jul 22 12:34:27 2015 -0430
+
+    * changelog
+
+commit 66fc22542b5e267d2817f88222e4ff33131d96f0
 Author: jose perez <sinfallas@gmail.com>
 Date:   Wed Jul 22 12:33:16 2015 -0430
 
     * se agrega pitivi
 
-commit e5d9af6cea6fcfa315f6e3f6a5a2fda75c88c826 (origin/master, origin/HEAD)
+commit e5d9af6cea6fcfa315f6e3f6a5a2fda75c88c826
 Author: jose perez <sinfallas@gmail.com>
 Date:   Wed Jul 22 12:31:01 2015 -0430
 
